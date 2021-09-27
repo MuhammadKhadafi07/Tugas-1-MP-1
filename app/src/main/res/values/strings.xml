@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">warung khadafi</string>
+    <string name="profile_post_count">4</string>
+    <string name="profile_pengikut">Pengikut</string>
+    <string name="profile_mengikuti">Mengikuti</string>
+    <string name="profile_post">Postingan</string>
+    <string name="profile_pengikut_count">207</string>
+    <string name="profle_pengikut_count">245</string>
+    <string name="profile_username">Muhammad Khadafi</string>
+    <string name="profile_bio">Hallooo</string>
+    <string name="btn_pesan">Kirim Pesan</string>
+    <string name="btn_telpon">Telepon</string>
+</resources>
